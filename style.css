@@ -1,0 +1,48 @@
+body {
+    background-color: coral;
+    font-family: Arial, sans-serif;
+    padding: 15px;
+}
+
+.head {
+    color: darkblue;
+}
+
+
+#bg-alpine {
+    background-color: lightgreen;
+}
+
+#bg-alpine {
+    color: red;
+}
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+}
+
+#para strong {
+    color: black;
+    font-size: 24px;
+}
+
+b {
+    color: blue;
+    text-decoration: underline;
+}
+
+ul {
+    color: darkblue;
+}
+
+ol {
+    color: darkred;
+}
+
+li {
+    margin-bottom: 5px;
+}
